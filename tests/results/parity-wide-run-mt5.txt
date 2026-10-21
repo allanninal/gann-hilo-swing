@@ -1,0 +1,26 @@
+PASS gn_default_BTCUSD_H1               bars  3000  line OK  side OK  trend OK  up 181 OK  down 182 OK  pivots  492 OK
+PASS gn_default_BTCUSD_H4               bars  3000  line OK  side OK  trend OK  up 179 OK  down 178 OK  pivots  454 OK
+PASS gn_default_BTCUSD_M15              bars  3000  line OK  side OK  trend OK  up 197 OK  down 197 OK  pivots  492 OK
+PASS gn_default_EURUSD_H1               bars  3000  line OK  side OK  trend OK  up 180 OK  down 180 OK  pivots  475 OK
+PASS gn_default_EURUSD_H4               bars  3000  line OK  side OK  trend OK  up 176 OK  down 175 OK  pivots  480 OK
+PASS gn_default_EURUSD_M15              bars  3000  line OK  side OK  trend OK  up 177 OK  down 177 OK  pivots  478 OK
+PASS gn_default_GBPJPY_H1               bars  3000  line OK  side OK  trend OK  up 170 OK  down 170 OK  pivots  449 OK
+PASS gn_default_GBPJPY_H4               bars  3000  line OK  side OK  trend OK  up 174 OK  down 173 OK  pivots  482 OK
+PASS gn_default_GBPJPY_M15              bars  3000  line OK  side OK  trend OK  up 192 OK  down 192 OK  pivots  522 OK
+PASS gn_default_XAUUSD_H1               bars  3000  line OK  side OK  trend OK  up 185 OK  down 184 OK  pivots  516 OK
+PASS gn_default_XAUUSD_H4               bars  3000  line OK  side OK  trend OK  up 163 OK  down 163 OK  pivots  458 OK
+PASS gn_default_XAUUSD_M15              bars  3000  line OK  side OK  trend OK  up 195 OK  down 196 OK  pivots  533 OK
+PASS gn_hilo5_noswing_BTCUSD_H1         bars  3000  line OK  side OK  trend OK  up 180 OK  down 181 OK  pivots  492 OK
+PASS gn_hilo5_noswing_BTCUSD_H4         bars  3000  line OK  side OK  trend OK  up 173 OK  down 172 OK  pivots  454 OK
+PASS gn_hilo5_noswing_BTCUSD_M15        bars  3000  line OK  side OK  trend OK  up 197 OK  down 196 OK  pivots  492 OK
+PASS gn_hilo5_noswing_EURUSD_H1         bars  3000  line OK  side OK  trend OK  up 163 OK  down 163 OK  pivots  475 OK
+PASS gn_hilo5_noswing_EURUSD_H4         bars  3000  line OK  side OK  trend OK  up 178 OK  down 177 OK  pivots  480 OK
+PASS gn_hilo5_noswing_EURUSD_M15        bars  3000  line OK  side OK  trend OK  up 177 OK  down 177 OK  pivots  478 OK
+PASS gn_hilo5_noswing_GBPJPY_H1         bars  3000  line OK  side OK  trend OK  up 179 OK  down 179 OK  pivots  449 OK
+PASS gn_hilo5_noswing_GBPJPY_H4         bars  3000  line OK  side OK  trend OK  up 162 OK  down 161 OK  pivots  482 OK
+PASS gn_hilo5_noswing_GBPJPY_M15        bars  3000  line OK  side OK  trend OK  up 183 OK  down 183 OK  pivots  522 OK
+PASS gn_hilo5_noswing_XAUUSD_H1         bars  3000  line OK  side OK  trend OK  up 178 OK  down 177 OK  pivots  516 OK
+PASS gn_hilo5_noswing_XAUUSD_H4         bars  3000  line OK  side OK  trend OK  up 159 OK  down 159 OK  pivots  458 OK
+PASS gn_hilo5_noswing_XAUUSD_M15        bars  3000  line OK  side OK  trend OK  up 178 OK  down 178 OK  pivots  533 OK
+
+ALL PASS (24 files)

@@ -1,0 +1,86 @@
+{
+ "M15": {
+  "closed_bars": 19112,
+  "per_symbol": {
+   "BTCUSD": {
+    "bars": 4782,
+    "new_trends": 624,
+    "pivots": 804
+   },
+   "EURUSD": {
+    "bars": 4782,
+    "new_trends": 562,
+    "pivots": 786
+   },
+   "GBPJPY": {
+    "bars": 4782,
+    "new_trends": 604,
+    "pivots": 834
+   },
+   "XAUUSD": {
+    "bars": 4766,
+    "new_trends": 615,
+    "pivots": 861
+   }
+  },
+  "new_trends_per_1000_bars": 125.84,
+  "pivots_per_1000_bars": 171.88,
+  "bars_per_new_trend": 7.9
+ },
+ "H1": {
+  "closed_bars": 284859,
+  "per_symbol": {
+   "BTCUSD": {
+    "bars": 72365,
+    "new_trends": 8235,
+    "pivots": 11647
+   },
+   "EURUSD": {
+    "bars": 72125,
+    "new_trends": 8585,
+    "pivots": 11767
+   },
+   "GBPJPY": {
+    "bars": 71881,
+    "new_trends": 8261,
+    "pivots": 11571
+   },
+   "XAUUSD": {
+    "bars": 68488,
+    "new_trends": 7742,
+    "pivots": 10984
+   }
+  },
+  "new_trends_per_1000_bars": 115.23,
+  "pivots_per_1000_bars": 161.37,
+  "bars_per_new_trend": 8.7
+ },
+ "H4": {
+  "closed_bars": 72039,
+  "per_symbol": {
+   "BTCUSD": {
+    "bars": 18092,
+    "new_trends": 1854,
+    "pivots": 2608
+   },
+   "EURUSD": {
+    "bars": 18055,
+    "new_trends": 2117,
+    "pivots": 2989
+   },
+   "GBPJPY": {
+    "bars": 17995,
+    "new_trends": 1997,
+    "pivots": 2861
+   },
+   "XAUUSD": {
+    "bars": 17897,
+    "new_trends": 2053,
+    "pivots": 2960
+   }
+  },
+  "new_trends_per_1000_bars": 111.34,
+  "pivots_per_1000_bars": 158.5,
+  "bars_per_new_trend": 9.0
+ }
+}

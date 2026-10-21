@@ -1,0 +1,10 @@
+indicator,GannLevels\GannHiLoSwing
+params,s:Gann HiLo and swing|i:3|b:true|b:true|s:Display|i:3000|c:16748574|c:4678655|s:Alerts|b:false|b:false|s:alert.wav|b:false|b:false
+symbol,XAUUSD
+period,PERIOD_H1
+ticks,91052717
+bars_checked,4406
+signals,506
+changed_after_close,0
+live_bar_signals,0
+DONE

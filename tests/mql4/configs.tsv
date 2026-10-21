@@ -1,0 +1,2 @@
+gn_default	InpHiLo=3,InpSwing=true,InpHistory=3000
+gn_hilo5_noswing	InpHiLo=5,InpSwing=false,InpHistory=3000

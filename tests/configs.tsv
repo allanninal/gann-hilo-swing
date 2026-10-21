@@ -1,0 +1,2 @@
+gn_default	InpAlertPopup=false
+gn_hilo5_noswing	InpAlertPopup=false,InpHiLo=5,InpSwing=false
